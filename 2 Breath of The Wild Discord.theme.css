@@ -14,13 +14,15 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
-  --main-color: #234E71;
-  --hover-color: #17385F;
-  --success-color: #3C8162;
-  --danger-color: #890707;
-  --url-color: var(--main-color);
+  --main-color: #2076BB;
+  --hover-color: #172E49;
+  --success-color: #00CC00;
+  --danger-color: #CC0000;
+  --url-color: #008EFF;
   --background-image: url('https://i.redd.it/g0upkrt886a91.gif');
   --background-shading: 25%;
   --background-position: center;
@@ -87,18 +89,18 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-  --rs-small-spacing: 2px;
-  --rs-medium-spacing: 2px;
-  --rs-large-spacing: 2px;
-  --rs-small-width: 2px;
-  --rs-medium-width: 2px;
-  --rs-large-width: 2px;
+  --rs-small-spacing: 1px;
+  --rs-medium-spacing: 1px;
+  --rs-large-spacing: 1px;
+  --rs-small-width: 2.5px;
+  --rs-medium-width: 3.5px;
+  --rs-large-width: 3.5px;
   --rs-avatar-shape: 50%;
   --rs-online-color: #00CC00;
-  --rs-idle-color: #BE8525;
-  --rs-dnd-color: #9F0000;
+  --rs-idle-color: #CC8000;
+  --rs-dnd-color: #CC0000;
   --rs-offline-color: #000000;
-  --rs-streaming-color: #470CAC;
+  --rs-streaming-color: #723CCF;
   --rs-phone-visible: block;
 }
 
