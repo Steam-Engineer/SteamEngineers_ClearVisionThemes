@@ -1,3 +1,4 @@
 Vencord Raw Links
 
-https://raw.githubusercontent.com/Steam-Engineer/SteamEngineers_ClearVisionThemes/master/1%20Discord%20Night.theme.css
+Discord Night (https://raw.githubusercontent.com/Steam-Engineer/SteamEngineers_ClearVisionThemes/master/1%20Discord%20Night.theme.css)
+Breath of the Wild Discord ()
