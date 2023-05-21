@@ -1,5 +1,5 @@
 /**
- * @name Breath of The Wild Discord
+ * @name Breath of the Wild
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -16,6 +16,7 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #2076BB;
@@ -24,7 +25,7 @@
   --danger-color: #CC0000;
   --url-color: #008EFF;
   --background-image: url('https://i.redd.it/g0upkrt886a91.gif');
-  --background-shading: 25%;
+  --background-shading: 10%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -36,31 +37,31 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: transparent;
+  --user-popout-image: url('https://64.media.tumblr.com/9368e2f6c0cf88c7a1f7b4534920b737/tumblr_om015jEqoL1t55824o1_500.gif');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
+  --user-popout-brightness: 50%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
-  --user-modal-image: transparent;
+  --user-popout-blur: 1px;
+  --user-modal-image: url('https://64.media.tumblr.com/9368e2f6c0cf88c7a1f7b4534920b737/tumblr_om015jEqoL1t55824o1_500.gif');
   --user-modal-position: center;
-  --user-modal-size: cover;
+  --user-modal-size: 200%;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
-  --user-modal-brightness: 100%;
+  --user-modal-brightness: 50%;
   --user-modal-contrast: 100%;
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
-  --home-icon: url('https://i.imgur.com/rEnJU9k.gif');
-  --home-position: top center;
-  --home-size: 98px;
+  --user-modal-blur: 2px;
+  --home-icon: url('https://64.media.tumblr.com/9368e2f6c0cf88c7a1f7b4534920b737/tumblr_om015jEqoL1t55824o1_500.gif');
+  --home-position: center;
+  --home-size: 115px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
