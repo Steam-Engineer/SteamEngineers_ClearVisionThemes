@@ -9,13 +9,14 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania:wght@100;300;400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
@@ -37,7 +38,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://64.media.tumblr.com/9368e2f6c0cf88c7a1f7b4534920b737/tumblr_om015jEqoL1t55824o1_500.gif');
+  --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -70,7 +71,7 @@
   --dnd-color: #9F0000;
   --streaming-color: #470CAC;
   --offline-color: #000000;
-  --main-font: Kaushan Script;
+  --main-font: Metal Mania;
   --code-font: Roboto;
   --channels-width: 220px;
   --members-width: 240px;
