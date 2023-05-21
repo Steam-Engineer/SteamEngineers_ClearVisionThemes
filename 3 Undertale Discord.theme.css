@@ -9,11 +9,12 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Allura:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon:wght@100;300;400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #444B73;
@@ -67,7 +68,7 @@
   --dnd-color: #FF0010;
   --streaming-color: #830082;
   --offline-color: #C6C6C6;
-  --main-font: Allura;
+  --main-font: Coming Soon;
   --code-font: Roboto;
   --channels-width: 220px;
   --members-width: 240px;
@@ -95,7 +96,7 @@
   --rs-large-width: 2.5px;
   --rs-avatar-shape: 50%;
   --rs-online-color: #008200;
-  --rs-idle-color: #04FDFF;
+  --rs-idle-color: #FF9C07;
   --rs-dnd-color: #FF0010;
   --rs-offline-color: #C6C6C6;
   --rs-streaming-color: #830082;
