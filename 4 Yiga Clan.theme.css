@@ -21,6 +21,7 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #711D1D;
@@ -63,9 +64,9 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 2px;
-  --home-icon: url('https://i.redd.it/w671xjjmh0f61.jpg');
+  --home-icon: url('https://wallpapercave.com/wp/wp9477295.jpg');
   --home-position: center;
-  --home-size: 40px;
+  --home-size: 114px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
