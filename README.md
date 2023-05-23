@@ -9,3 +9,6 @@ Breath of the Wild
 Undertale
 (https://raw.githubusercontent.com/Steam-Engineer/SteamEngineers_ClearVisionThemes/master/3%20Undertale%20Discord.theme.css)
 
+Yiga Clan
+(https://raw.githubusercontent.com/Steam-Engineer/SteamEngineers_ClearVisionThemes/master/4%20Yiga%20Clan.theme.css)
+
