@@ -10,5 +10,5 @@ Undertale
 (https://raw.githubusercontent.com/Steam-Engineer/SteamEngineers_ClearVisionThemes/master/3%20Undertale%20Discord.theme.css)
 
 Skyward Sword
-()
+(https://raw.githubusercontent.com/Steam-Engineer/SteamEngineers_ClearVisionThemes/master/4%20Skyward%20Sword.theme.css)
 
