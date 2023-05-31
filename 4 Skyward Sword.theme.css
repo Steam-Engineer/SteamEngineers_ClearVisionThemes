@@ -21,6 +21,8 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
   --main-color: #738797;
@@ -28,7 +30,7 @@
   --success-color: #00CC00;
   --danger-color: #CC0000;
   --url-color: #008EFF;
-  --background-image: url('https://im2.ezgif.com/tmp/ezgif-2-164ca64c54.gif');
+  --background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c43df9e9-7cf9-486f-b650-624a47790895/dfcu3zy-b163da68-c90e-436e-93da-68196ce6502a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M0M2RmOWU5LTdjZjktNDg2Zi1iNjUwLTYyNGE0Nzc5MDg5NVwvZGZjdTN6eS1iMTYzZGE2OC1jOTBlLTQzNmUtOTNkYS02ODE5NmNlNjUwMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.w82-2CCq3oH9Mweay_ylcuDI0QMeYUc1yp8TYVm6a5I');
   --background-shading: 10%;
   --background-position: center;
   --background-size: cover;
@@ -52,7 +54,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 1px;
-  --user-modal-image: url('https://storage.ko-fi.com/cdn/useruploads/post/403101f3-592a-4047-a813-2580f5e679f5_zelda-skyward-by-itzah-sq-x1.gif');
+  --user-modal-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c43df9e9-7cf9-486f-b650-624a47790895/dfcu3zy-b163da68-c90e-436e-93da-68196ce6502a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M0M2RmOWU5LTdjZjktNDg2Zi1iNjUwLTYyNGE0Nzc5MDg5NVwvZGZjdTN6eS1iMTYzZGE2OC1jOTBlLTQzNmUtOTNkYS02ODE5NmNlNjUwMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.w82-2CCq3oH9Mweay_ylcuDI0QMeYUc1yp8TYVm6a5I');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
